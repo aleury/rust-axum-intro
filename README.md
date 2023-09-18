@@ -4,13 +4,7 @@ This is a project covered in [this course by Jeremy Chone](https://www.youtube.c
 
 ## Setup
 
-Install the dependencies using
-
-```bash
-$ cargo install
-```
-
-and then start the application in one terminal:
+Start the application in one terminal:
 
 ```bash
 $ cargo watch -q -c -w src/ -x run
